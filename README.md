@@ -2,6 +2,10 @@
 
 **Find the assumption that changes the answer.**
 
+![Hermes Crux — Flip the Decision launch illustration](docs/branding/crux-flip-the-decision.png)
+
+*Launch artwork. The actual Crux interface is shown below.*
+
 ![Crux running inside the released Hermes interface](docs/screenshots/atlas.png)
 
 Crux turns a Hermes recommendation into a decision you can inspect and stress-test. Compare concrete options, move the assumptions, and see exactly where the preferred feasible option changes. When no option works, Crux identifies a smallest conflicting set of constraints and shows why.
