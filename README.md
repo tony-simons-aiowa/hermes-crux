@@ -23,7 +23,7 @@ The analysis runs locally. Moving a slider does not call a model or spend API cr
 Requires Hermes **0.23.0+**. Install the public repository:
 
 ```sh
-hermes plugins install https://github.com/asimons81/hermes-crux
+hermes plugins install https://github.com/tony-simons-aiowa/hermes-crux
 hermes plugins enable hermes-crux
 ```
 
